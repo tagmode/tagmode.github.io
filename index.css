@@ -11,7 +11,7 @@
   width: 687px;
   min-height: 416px;
   height: auto;
-  margin: 124px 0 60px auto;
+  margin: 98px 0 60px auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -41,13 +41,13 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 607px;
+    min-height: 621px;
   }
 
   .u-section-1 .u-group-1 {
     width: 898px;
     min-height: 463px;
-    margin-bottom: 20px;
+    margin-top: 60px;
     height: auto;
   }
 
@@ -73,13 +73,12 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 620px;
+    min-height: 577px;
   }
 
   .u-section-1 .u-group-1 {
     min-height: 438px;
-    margin-top: 101px;
-    margin-bottom: 60px;
+    margin-top: 59px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -116,7 +115,6 @@
 
   .u-section-1 .u-group-1 {
     min-height: 465px;
-    margin-top: 105px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -144,12 +142,12 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 599px;
+    min-height: 50vw;
   }
 
   .u-section-1 .u-group-1 {
     min-height: 477px;
-    margin-top: 42px;
+    margin-top: 40px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -622,6 +620,30 @@
 
   .u-section-3 .u-list-1 {
     min-height: 1783px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-right: 195px;
+    margin-left: -22px;
+  }
+
+  .u-section-3 .u-text-5 {
+    width: auto;
+    margin-right: 195px;
+    margin-left: -22px;
+  }
+
+  .u-section-3 .u-text-8 {
+    width: auto;
+    margin-right: 195px;
+    margin-left: -22px;
+  }
+
+  .u-section-3 .u-text-11 {
+    width: auto;
+    margin-right: 195px;
+    margin-left: -22px;
   }
 }.u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/future-tiny.jpg");
