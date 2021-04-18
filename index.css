@@ -147,7 +147,7 @@
 
   .u-section-1 .u-group-1 {
     min-height: 477px;
-    margin-top: 40px;
+    margin-top: 143px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -160,7 +160,7 @@
 
   .u-section-1 .u-text-1 {
     font-size: 2.25rem;
-    margin-top: 103px;
+    margin-top: 31px;
     margin-right: 6px;
     margin-left: 0;
   }
@@ -168,13 +168,11 @@
   .u-section-1 .u-text-2 {
     font-size: 1.25rem;
     margin-top: 31px;
-    margin-left: 3px;
-    margin-right: 3px;
+    margin-left: 6px;
   }
 
   .u-section-1 .u-btn-1 {
     margin-top: 31px;
-    margin-right: 6px;
     padding: 12px 30px 13px 28px;
   }
 }.u-section-2 {
@@ -615,11 +613,15 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 2047px;
+    min-height: 2335px;
   }
 
   .u-section-3 .u-list-1 {
-    min-height: 1783px;
+    min-height: 2066px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-bottom: 85px;
   }
 
   .u-section-3 .u-text-2 {
@@ -628,10 +630,26 @@
     margin-left: -22px;
   }
 
+  .u-section-3 .u-text-4 {
+    margin-top: 18px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-bottom: 85px;
+  }
+
   .u-section-3 .u-text-5 {
     width: auto;
     margin-right: 195px;
     margin-left: -22px;
+  }
+
+  .u-section-3 .u-text-7 {
+    margin-top: 18px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-bottom: 85px;
   }
 
   .u-section-3 .u-text-8 {
@@ -640,10 +658,22 @@
     margin-left: -22px;
   }
 
+  .u-section-3 .u-text-10 {
+    margin-top: 18px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-bottom: 85px;
+  }
+
   .u-section-3 .u-text-11 {
     width: auto;
     margin-right: 195px;
     margin-left: -22px;
+  }
+
+  .u-section-3 .u-text-13 {
+    margin-top: 18px;
   }
 }.u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/future-tiny.jpg");
