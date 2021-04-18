@@ -33624,12 +33624,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 104px;
+  min-height: 107px;
 }
 
 .u-header .u-menu-1 {
   font-family: size-14;
-  margin: 33px 0 0 auto;
+  margin: 5px 0 0 auto;
 }
 
 .u-header .u-nav-1 {
@@ -33642,27 +33642,26 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  margin: -58px auto 14px 0;
+  margin: -68px auto -24px 0;
 }
 
 .u-header .u-logo-image-1 {
-  max-width: 76px;
-  max-height: 76px;
+  max-width: 97px;
+  max-height: 97px;
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
-    min-height: 92px;
+    min-height: 121px;
   }
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: 32px;
+    margin-top: 12px;
   }
 
   .u-header .u-image-1 {
     width: auto;
-    margin-top: -65px;
-    margin-bottom: 9px;
+    margin-bottom: -17px;
   }
 }
 @media (max-width: 991px) {
@@ -33671,12 +33670,12 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: 25px;
+    margin-top: 23px;
   }
 
   .u-header .u-image-1 {
     margin-top: -57px;
-    margin-bottom: 7px;
+    margin-bottom: 8px;
   }
 
   .u-header .u-logo-image-1 {
@@ -33690,17 +33689,17 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: 37px;
+    margin-top: 31px;
   }
 
   .u-header .u-image-1 {
-    margin-top: -70px;
-    margin-bottom: 21px;
+    margin-top: -65px;
+    margin-bottom: 11px;
   }
 
   .u-header .u-logo-image-1 {
-    max-width: 74px;
-    max-height: 74px;
+    max-width: 85px;
+    max-height: 85px;
   }
 }
 @media (max-width: 575px) {
@@ -33709,18 +33708,17 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: 21px;
+    margin-top: 23px;
   }
 
   .u-header .u-image-1 {
-    margin-top: -53px;
-    margin-bottom: 11px;
-    width: auto;
+    margin-top: -57px;
+    margin-bottom: 5px;
   }
 
   .u-header .u-logo-image-1 {
-    max-width: 67px;
-    max-height: 67px;
+    max-width: 74px;
+    max-height: 74px;
   }
 }
 .u-footer .u-sheet-1 {
