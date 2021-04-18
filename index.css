@@ -10,6 +10,7 @@
 .u-section-1 .u-group-1 {
   width: 687px;
   min-height: 416px;
+  animation-duration: 1000ms;
   margin: 98px 0 60px auto;
 }
 
@@ -21,13 +22,14 @@
 .u-section-1 .u-text-1 {
   font-size: 3.75rem;
   font-weight: normal;
+  animation-duration: 1250ms;
   margin: 54px 0 0 20px;
 }
 
 .u-section-1 .u-text-2 {
-  font-weight: 300;
-  text-transform: none;
   font-size: 1.875rem;
+  text-transform: none;
+  font-weight: 400;
   margin: 20px 0 0 20px;
 }
 
@@ -124,6 +126,7 @@
   }
 
   .u-section-1 .u-text-1 {
+    font-size: 3rem;
     margin-top: 0;
     margin-left: 9px;
   }
